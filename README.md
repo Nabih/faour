@@ -1,5 +1,5 @@
 <div align="center">
   <br>
-  <img src="https://github.com/nabih/faour/raw/master/googlelogo_color_272x92dp.png" />
+  <img src="https://raw.githubusercontent.com/Nabih/faour/main/googlelogo_color_272x92dp.png" />
   <br>
 </div>
